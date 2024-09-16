@@ -1,7 +1,7 @@
 let array = [];
 let arraySize = 50;
 let animationSpeed = 50; // To Control animation speed
-
+ 
 // Generate a random array
 function generateArray() {
   arraySize = document.getElementById("sizeRange").value;
