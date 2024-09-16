@@ -150,7 +150,7 @@ async function quickSort() {
 }
 
 function redirectToPage() {
-  window.location.href = 'bfs.html';
+  window.location.href = 'maze.html';
 }
 
 generateArray(); // Initial array generation
